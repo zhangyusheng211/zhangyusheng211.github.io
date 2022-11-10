@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-Ch"  # language
-title                    : "Zhang yusheng      Hello to my world!"  # name and desciption
+title                    : "Hello to my world!"  # name and desciption
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/zhangyusheng211 # "academicpages"
+  github           : zhangyusheng211 # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
